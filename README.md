@@ -1,8 +1,19 @@
-# React + Vite
+# ReactPizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ReactPizza** is your go-to platform for ordering delicious pizzas right to your doorstep. Explore a wide variety of mouthwatering pizzas.
 
-Currently, two official plugins are available:
+Visit the live demo [here](https://mtibaareactpizza.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Browse a diverse selection of pizzas
+- Easy and secure online ordering
+- Quick delivery to your location
+- And much more!
+
+### To initialize the project and get it up and running, follow these steps:
+
+1. npm install
+2. npm run dev
+
+Start ordering your favorite pizzas today and satisfy your cravings with ReactPizza!
